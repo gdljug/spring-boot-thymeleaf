@@ -23,3 +23,7 @@ spring init --dependencies=web --language=groovy --build=gradle spring-boot-thym
 ```bash
 gradle bootRun
 ```
+
+#### Read this as Reference
+
+http://josdem.io/techtalk/spring/spring_boot_thymeleaf/
